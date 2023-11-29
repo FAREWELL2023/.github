@@ -6,7 +6,9 @@ Liklion 11th line4thon 11팀
 http://13.125.156.150/
 <br/><br/>
 
-![Frame 6193](https://github.com/FAREWELL2023/.github/assets/102468718/318ee255-98cd-44dd-90b4-e0132fcd18a8)
+
+<img width="1440" alt="farewell표지" src="https://github.com/FAREWELL2023/.github/assets/102468718/0d6efa05-1966-4181-b257-709a538d3411">
+
 ![Frame 6194](https://github.com/FAREWELL2023/.github/assets/102468718/b693f5c0-272b-4f52-85b0-9b9c34ab4f46)
 ![Frame 6195](https://github.com/FAREWELL2023/.github/assets/102468718/ddb55792-5816-4358-96d1-3ec67b020a28)
 ![Frame 6196](https://github.com/FAREWELL2023/.github/assets/102468718/a183874d-458b-412f-971c-248827e1c59d)
